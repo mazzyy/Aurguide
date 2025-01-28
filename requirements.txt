@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+folium
+missingno
+geopy
