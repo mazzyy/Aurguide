@@ -1,6 +1,6 @@
 # Aurguide
 
-Aurguide is a comprehensive platform designed to assist students in navigating the complexities of studying abroad. By leveraging modern technologies, Aurguide streamlines the process of university selection, application submissions, visa appointments, and job placements.
+Aurguide is a comprehensive platform designed to assist students in navigating the process of studying abroad. By Using AI , Aurguide streamlines the process of university selection, application submissions, visa appointments, and job placements.
 
 ## Features
 
